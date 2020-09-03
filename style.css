@@ -1,0 +1,39 @@
+.header{
+	background: #50C7C7;
+	text-align: center;
+	padding: 30px;
+	width: 100%
+}
+body {
+  margin: 0;
+  font-family: Alatsi;
+  padding: 10px;
+  /*background: #0A0A0A;*/
+}
+.header h1 {
+  font-size: 40px;
+  text-align: left;
+  font-style: Alata;
+}
+#image{
+  	width:auto; 
+    text-align:center; 
+    padding:20px; 
+    
+}
+img {
+	display: block;
+	margin: auto;
+	width: 50%;
+    height:auto;
+    text-align: center;
+    padding-top:20px; 
+}
+#mid_work{
+	text-align: center;
+	padding-top: 50px;
+    padding-right: 80px;
+  	padding-bottom: 50px;
+  	padding-left: 80px;
+}
+
